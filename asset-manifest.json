@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b4c4e056.chunk.css",
+    "main.js": "/portfolio/static/js/main.a294e605.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a294e605.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.2c9076bf.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.2c9076bf.js.map",
+    "static/css/2.9c389199.chunk.css": "/portfolio/static/css/2.9c389199.chunk.css",
+    "static/js/2.e8169e86.chunk.js": "/portfolio/static/js/2.e8169e86.chunk.js",
+    "static/js/2.e8169e86.chunk.js.map": "/portfolio/static/js/2.e8169e86.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.dd0988a4fb92fe06b85e743625a78b32.js": "/portfolio/precache-manifest.dd0988a4fb92fe06b85e743625a78b32.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.9c389199.chunk.css.map": "/portfolio/static/css/2.9c389199.chunk.css.map",
+    "static/css/main.b4c4e056.chunk.css.map": "/portfolio/static/css/main.b4c4e056.chunk.css.map",
+    "static/js/2.e8169e86.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e8169e86.chunk.js.LICENSE.txt",
+    "static/media/SIUHoiWa_CV.pdf": "/portfolio/static/media/SIUHoiWa_CV.34899d8f.pdf",
+    "static/media/UST.png": "/portfolio/static/media/UST.7d37cfd1.png",
+    "static/media/engineer.0d872a1e.svg": "/portfolio/static/media/engineer.0d872a1e.svg",
+    "static/media/handyRehabIcon.e2e1f6b8.svg": "/portfolio/static/media/handyRehabIcon.e2e1f6b8.svg",
+    "static/media/matlab.8683213c.svg": "/portfolio/static/media/matlab.8683213c.svg",
+    "static/media/meiyumeLipstick.25758dc0.svg": "/portfolio/static/media/meiyumeLipstick.25758dc0.svg",
+    "static/media/orii.png": "/portfolio/static/media/orii.c89529b0.png",
+    "static/media/school.926763ec.svg": "/portfolio/static/media/school.926763ec.svg",
+    "static/media/sportopia.png": "/portfolio/static/media/sportopia.05021a60.png",
+    "static/media/sportopiaIcon.192b4e63.svg": "/portfolio/static/media/sportopiaIcon.192b4e63.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c9076bf.js",
+    "static/css/2.9c389199.chunk.css",
+    "static/js/2.e8169e86.chunk.js",
+    "static/css/main.b4c4e056.chunk.css",
+    "static/js/main.a294e605.chunk.js"
+  ]
+}
